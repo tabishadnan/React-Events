@@ -3,6 +3,10 @@
   text-align: center;
 }
 
+.button-wrapper {
+  padding: 10px;
+}
+
 .App button {
   padding: 10px 30px;
   margin: 0px 20px;
